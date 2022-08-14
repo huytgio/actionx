@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 7182b65f91153f84ba622a3185524acc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7315839072879927476
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_0
+  - first:
+      213: 7279355921070046429
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_1
+  - first:
+      213: -2355206484097370647
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_2
+  - first:
+      213: -7036348763674119584
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_3
+  - first:
+      213: 5003102345653147427
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_4
+  - first:
+      213: -6803172825486219734
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_5
+  - first:
+      213: -8608506836741218559
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_6
+  - first:
+      213: 8183081812681458726
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_7
+  - first:
+      213: -5955582375036302343
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_8
+  - first:
+      213: 2201743845915439699
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_9
+  - first:
+      213: -236369764415005379
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_10
+  - first:
+      213: 22746902351642551
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_11
+  - first:
+      213: -907751323950807897
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_12
+  - first:
+      213: 2637333442302132793
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_13
+  - first:
+      213: 6841373496260309194
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_14
+  - first:
+      213: -8481643112322056292
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_15
+  - first:
+      213: -1004128512118999836
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_16
+  - first:
+      213: -5470603439099975082
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_17
+  - first:
+      213: 2133692134225299039
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_18
+  - first:
+      213: 6070247531719079670
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_19
+  - first:
+      213: -4999527888823221912
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_20
+  - first:
+      213: -1325837743434383345
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_21
+  - first:
+      213: 2722844226263235067
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_22
+  - first:
+      213: -5573415770170784777
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_23
+  - first:
+      213: -2457255383614627532
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_24
+  - first:
+      213: 2394311921915393414
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_25
+  - first:
+      213: -7554241124245317813
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_26
+  - first:
+      213: 3388120430513735584
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_27
+  - first:
+      213: -5133849213714134541
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_28
+  - first:
+      213: 3379111019584524128
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_29
+  - first:
+      213: 5891971487654173308
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_30
+  - first:
+      213: 905190619187359889
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_31
+  - first:
+      213: 2091581533257323504
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_32
+  - first:
+      213: -4694320441810709828
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_33
+  - first:
+      213: 5968262448897081924
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_34
+  - first:
+      213: -117625937604142551
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_35
+  - first:
+      213: 2986703550045079427
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_36
+  - first:
+      213: -7334797645499044409
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_37
+  - first:
+      213: -896732016284987894
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_38
+  - first:
+      213: -638459911287733130
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_39
+  - first:
+      213: -8067776229586301011
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_40
+  - first:
+      213: -462548820757930770
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_41
+  - first:
+      213: 7503788992487259094
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_42
+  - first:
+      213: -4479856468323871053
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_43
+  - first:
+      213: -3665509367064192096
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_44
+  - first:
+      213: 3083090524833696869
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_45
+  - first:
+      213: -3836890983326431209
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_46
+  - first:
+      213: 8128659803076527230
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_47
+  - first:
+      213: 8025683684642324003
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_48
+  - first:
+      213: -5431023473881689304
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_49
+  - first:
+      213: -8174859963815916397
+    second: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 599
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f911bcf1be87a90800000000000000
+      internalID: -7315839072879927476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 599
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc340d74a7750560800000000000000
+      internalID: 7279355921070046429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 599
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5fdae5e20a05fd0800000000000000
+      internalID: -2355206484097370647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 599
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f171641ed95e90800000000000000
+      internalID: -7036348763674119584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 599
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327549763179e6540800000000000000
+      internalID: 5003102345653147427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 599
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ad472c564691a0800000000000000
+      internalID: -6803172825486219734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 599
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f948d44a0788880800000000000000
+      internalID: -8608506836741218559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 599
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62486d48d85209170800000000000000
+      internalID: 8183081812681458726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 599
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb42694265895da0800000000000000
+      internalID: -5955582375036302343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 485
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352313ecc5a2e8e10800000000000000
+      internalID: 2201743845915439699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 485
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d966c93fe38bcf0800000000000000
+      internalID: -236369764415005379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 485
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff86aef20d05000800000000000000
+      internalID: 22746902351642551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 485
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a48587faf40763f0800000000000000
+      internalID: -907751323950807897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 485
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324da6eac0b99420800000000000000
+      internalID: 2637333442302132793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 485
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03e5c92f071fe50800000000000000
+      internalID: 6841373496260309194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_15
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 485
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb76ae6862b4a80800000000000000
+      internalID: -8481643112322056292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 485
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43e46307e9012f0800000000000000
+      internalID: -1004128512118999836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_17
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 485
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6a6918238414b0800000000000000
+      internalID: -5470603439099975082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 371
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564b88f0b56c9d10800000000000000
+      internalID: 2133692134225299039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 371
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6bec2f7f9dd3450800000000000000
+      internalID: 6070247531719079670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 371
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861880eafdb1e9ab0800000000000000
+      internalID: -4999527888823221912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 371
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c9c0d89da99de0800000000000000
+      internalID: -1325837743434383345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 371
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b425c56c79c520800000000000000
+      internalID: 2722844226263235067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 371
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f30961e2ef37a2b0800000000000000
+      internalID: -5573415770170784777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_24
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 371
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431eb396f3316edd0800000000000000
+      internalID: -2457255383614627532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_25
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 371
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ff33e10e4a3120800000000000000
+      internalID: 2394311921915393414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_26
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 371
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d5b9b8b1f92790800000000000000
+      internalID: -7554241124245317813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 257
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c30d9495050f20800000000000000
+      internalID: 3388120430513735584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 257
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f986262757e0c8b0800000000000000
+      internalID: -5133849213714134541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 257
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f81faa19305ee20800000000000000
+      internalID: 3379111019584524128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 257
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a5b5cd9dc74c150800000000000000
+      internalID: 5891971487654173308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 257
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bdae7212ef8c00800000000000000
+      internalID: 905190619187359889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_32
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 257
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3d194a25ac60d10800000000000000
+      internalID: 2091581533257323504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 257
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb294040e6c6adeb0800000000000000
+      internalID: -4694320441810709828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_34
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 257
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44240d8731783d250800000000000000
+      internalID: 5968262448897081924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_35
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 257
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9bbc35db1e5ef0800000000000000
+      internalID: -117625937604142551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 136
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387c5d5fd07e27920800000000000000
+      internalID: 2986703550045079427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd68a02760953a90800000000000000
+      internalID: -7334797645499044409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 136
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e0d967bfa2e83f0800000000000000
+      internalID: -896732016284987894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 143
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740e58e71cb327f0800000000000000
+      internalID: -638459911287733130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_40
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 143
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0b2c9340890090800000000000000
+      internalID: -8067776229586301011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_41
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 143
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec92775c42b499f0800000000000000
+      internalID: -462548820757930770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 143
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db70b6f450d22860800000000000000
+      internalID: 7503788992487259094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_43
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 142
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d1d0074a54d1c0800000000000000
+      internalID: -4479856468323871053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_44
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 143
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab954fb6ae712dc0800000000000000
+      internalID: -3665509367064192096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 58
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc5175f7659ca20800000000000000
+      internalID: 3083090524833696869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 58
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718cde8baff90cac0800000000000000
+      internalID: -3836890983326431209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 58
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748f5ef50dcec070800000000000000
+      internalID: 8128659803076527230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 30
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef0ce0ac4f06f60800000000000000
+      internalID: 8025683684642324003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_49
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 30
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235970ece021a4b0800000000000000
+      internalID: -5431023473881689304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-rpg-maker-mv-crab-meat-sprite-rpg-maker-vx-crab-game-animals_50
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 30
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8038dc201d8e80800000000000000
+      internalID: -8174859963815916397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

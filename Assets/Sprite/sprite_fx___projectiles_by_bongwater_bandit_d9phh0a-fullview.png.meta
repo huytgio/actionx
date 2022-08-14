@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 20cb5d74ee8fcef45b7dad4509a410c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6050291157980133117
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_0
+  - first:
+      213: -1690411768709196601
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_1
+  - first:
+      213: -3258074040778246490
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_2
+  - first:
+      213: 6697208066599651212
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_3
+  - first:
+      213: 7362698972070382043
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_4
+  - first:
+      213: -2363786945423535372
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_5
+  - first:
+      213: -3399787145301958533
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_6
+  - first:
+      213: -1644994579156785137
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_7
+  - first:
+      213: 5530948673332788938
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_8
+  - first:
+      213: -4401256394292893838
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_9
+  - first:
+      213: -6183081901359797299
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_10
+  - first:
+      213: 2409629748328493017
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_11
+  - first:
+      213: 5618449606341874081
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_12
+  - first:
+      213: -6165615928095244684
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_13
+  - first:
+      213: -626227327020807169
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_14
+  - first:
+      213: -1550620732269567921
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_15
+  - first:
+      213: 3994229394665319214
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_16
+  - first:
+      213: 7669774409971233925
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_17
+  - first:
+      213: 5694943476238540683
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_18
+  - first:
+      213: -4414860529243392408
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_19
+  - first:
+      213: 8400824091610106941
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_20
+  - first:
+      213: -115580329262189012
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_21
+  - first:
+      213: -2077385408977914928
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_22
+  - first:
+      213: -1714326286782270338
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_23
+  - first:
+      213: 949525256121160458
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_24
+  - first:
+      213: 5930003060711732748
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_25
+  - first:
+      213: -7276002303281891711
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_26
+  - first:
+      213: 7691050555371948119
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_27
+  - first:
+      213: 2762405866218353167
+    second: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b71b90c3f6f350800000000000000
+      internalID: 6050291157980133117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d2f9d3737a88e0800000000000000
+      internalID: -1690411768709196601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6bd730ceef8c2d0800000000000000
+      internalID: -3258074040778246490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 152
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c878d84d04341fc50800000000000000
+      internalID: 6697208066599651212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd98362b4bf8d2660800000000000000
+      internalID: 7362698972070382043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 133
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f213590c44223fd0800000000000000
+      internalID: -2363786945423535372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 133
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70665caa9781d0d0800000000000000
+      internalID: -3399787145301958533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 133
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08aae3552ecb29e0800000000000000
+      internalID: -1644994579156785137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3be0a380e1cc40800000000000000
+      internalID: 5530948673332788938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 121
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27761c4d0a89be2c0800000000000000
+      internalID: -4401256394292893838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 121
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb6d4425c7413aa0800000000000000
+      internalID: -6183081901359797299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 121
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df65554d79b07120800000000000000
+      internalID: 2409629748328493017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d07e262eb8fd40800000000000000
+      internalID: 5618449606341874081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 101
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7460faf45f6aa0800000000000000
+      internalID: -6165615928095244684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb484060913f47f0800000000000000
+      internalID: -626227327020807169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4067b7d8a61b7ae0800000000000000
+      internalID: -1550620732269567921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 102
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b237cd87a5e6730800000000000000
+      internalID: 3994229394665319214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58477bd8033807a60800000000000000
+      internalID: 7669774409971233925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 77
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f50252be0880f40800000000000000
+      internalID: 5694943476238540683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 75
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866fd855db34bb2c0800000000000000
+      internalID: -4414860529243392408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc6f87009b59470800000000000000
+      internalID: 8400824091610106941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 75
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26fd4b8d40656ef0800000000000000
+      internalID: -115580329262189012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ba4c1af4ab23e0800000000000000
+      internalID: -2077385408977914928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747a37335d7538e0800000000000000
+      internalID: -1714326286782270338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a031d5c80346d2d00800000000000000
+      internalID: 949525256121160458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 52
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b3be7d5a9b4250800000000000000
+      internalID: 5930003060711732748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 29
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18675ff7472760b90800000000000000
+      internalID: -7276002303281891711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758048e2bb91cba60800000000000000
+      internalID: 7691050555371948119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fx___projectiles_by_bongwater_bandit_d9phh0a-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02766ddf79065620800000000000000
+      internalID: 2762405866218353167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
